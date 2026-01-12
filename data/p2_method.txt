@@ -1,0 +1,6 @@
+Collect insect acoustic recordings
+Preprocess and segment audio signals
+Transform signals into spectrograms
+Train a CNN
+Classify calls by species
+Evaluate performance using classification metrics like accuracy, etc. 
