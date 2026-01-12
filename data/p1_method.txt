@@ -1,0 +1,6 @@
+Record cricket calling songs
+Segment recordings into individual chirps
+Extract acoustic features like MFCC, etc.
+Train a CNN
+Classify calls by individual identity
+Evaluate accuracy across individuals
