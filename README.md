@@ -4,8 +4,20 @@ A small tool to check whether two research ideas use the same underlying method 
 
 Here, there's no comparison made on the basis of full length of the papers but on their methodologies.
 
-<h2>Steps for Paper 1</h2>
+<h2>Paper 1</h2>
 
-1. For a given input x, generate m response samples s1, . . . , sm.
-2. Calculate the pairwise similarity scores a(sj1 , sj2 ) for these m responses.
-3. Compute an uncertainty estimate U(x) or a confidence score C(x,sj) using the similarity values.
+1. Record cricket calling songs
+2. Segment recordings into individual chirps
+3. Extract acoustic features like MFCC, etc.
+4. Train a CNN
+5. Classify calls by individual identity
+6. Evaluate accuracy across individuals
+
+<h2>Paper 2</h2>
+
+1. Collect insect acoustic recordings
+2. Preprocess and segment audio signals
+3. Transform signals into spectrograms
+4. Train a CNN
+5. Classify calls by species
+6. Evaluate performance using classification metrics like accuracy, etc. 
